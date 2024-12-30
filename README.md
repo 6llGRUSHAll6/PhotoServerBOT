@@ -11,4 +11,5 @@
 ``---> const token = 'your bot token'; <--- bot token``
 
 
-"(chat gpt code)"
+in Russian/На Русском!!!!
+*chat gpt code*
