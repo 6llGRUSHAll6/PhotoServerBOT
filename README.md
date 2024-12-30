@@ -5,7 +5,10 @@
 
 
 ``2. npm init -y``
+
 ``3. npm install node-telegram-bot-api axios``
+
 ``---> const token = 'your bot token'; <--- bot token``
 
 
+"(chat gpt code)"
