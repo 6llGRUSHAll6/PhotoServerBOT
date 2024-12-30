@@ -12,4 +12,5 @@
 
 
 in Russian/На Русском!!!!
-*chat gpt code*
+
+**chat gpt code**
